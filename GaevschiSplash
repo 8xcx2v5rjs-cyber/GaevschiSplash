@@ -1,0 +1,11 @@
+GaevschiSplash/
+ ├── Makefile
+ ├── Tweak.xm
+ ├── control
+ ├── layout/
+ │    └── Library/
+ │         └── Application Support/
+ │              └── gaevschi_youtube_splash.png
+ └── .github/
+      └── workflows/
+           └── build.yml
