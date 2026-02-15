@@ -1,0 +1,9 @@
+Package: com.gaevschi.splash
+Name: GaevschiSplash
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Custom Splash Animation
+Maintainer: Gaevschi
+Author: Gaevschi
+Section: Tweaks
+Depends: mobilesubstrate
